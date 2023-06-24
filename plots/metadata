@@ -1,8 +1,0 @@
-xc_infected-time files: 
-  time    fracction of infected nodes
-  
-xc_ro-time files: 
-  time    average of fracction of infected nodes over realizations according to the mean field approximation
-
-xc_infectedeq-lambda:
-  lambda/delta    equilibrum fraction of infected nodes    standard deviation of equilibrum fraction of infected nodes    equilirium fraction of infected nodes according to the fully mixed network approximation
